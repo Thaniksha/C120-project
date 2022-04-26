@@ -49,3 +49,13 @@ h4{
 span{
   color: white;
 }
+#result img{
+  height: 100px;
+  width: 100px;
+  border-radius: 100px;
+}
+#result{
+  background-color: tomato;
+  border-radius: 50px;
+  
+}
