@@ -9,6 +9,7 @@ body{
     text-align:center;
     background-color:purple;
     color:white;
+ 
   }
   .text_images_and_result{
     background-color: rgb(4, 55, 59);
@@ -55,7 +56,7 @@ span{
   border-radius: 100px;
 }
 #result{
-  background-color: tomato;
+  background-color: rgb(148, 22, 0);
   border-radius: 50px;
-  
+  margin-bottom: 40px;
 }
